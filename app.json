@@ -2,7 +2,7 @@
   "name": "WAGWANS BOT-KWESH",
   "description": "whatsapp md bot build with nodejs",
   "repository": "It's under development joh",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "logo": "https://en.wikipedia.org/wiki/Church_(building)#/media/File:Frauenkirche_M%C3%BCnchen_abends.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
