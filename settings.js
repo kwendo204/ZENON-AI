@@ -1,10 +1,10 @@
-//base by drex 
+//base by james
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @drexmose
-//Instagram: drex_mose
+//YouTube: @kwesh
+//Instagram: jameskwesh
 //Telegram: t.me/dark_intent
-//GitHub: @drexmose
-//WhatsApp: +254102074064
+//GitHub: @kwensh
+//WhatsApp: +254717407351
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@drexmose
 
 const fs = require('fs')
@@ -14,7 +14,7 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "YT: Drex" //ur yt chanel name
+global.ytname = "YT: Kwesh" //ur yt chanel name
 global.socialm = "GitHub: drexmose" //ur github or insta name
 global.location = "Africa, Kenya, Nairobi" //ur location
 
